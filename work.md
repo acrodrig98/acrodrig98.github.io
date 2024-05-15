@@ -1,11 +1,11 @@
 ---
 theme: jekyll-theme-minimal
-description: Astrophysics Graduate Student at Caltech
-title: "New Page"
-permalink: /new-page/
+description: Astrophysics PhD Student at Caltech
+title: "Research"
+permalink: /research/
 ---
 
 
-# My Work
+# My Research
 
 ## Accreting Binary Stars
