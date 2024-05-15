@@ -1,6 +1,7 @@
 ## [About Me](https://acrodrig98.github.io/)
 ## [Research](https://acrodrig98.github.io/research)
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
+
 # About Me
 I am a fourth year PhD student in the [Astronomy Department](https://www.astro.caltech.edu) at Caltech working with [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/), [Kareem El-Badry](https://kareemelbadry.github.io/), and [Tom Prince](http://www.srl.caltech.edu/~prince/). I'm also fortunate to be an [NSF Graduate Fellow](https://www.nsfgrfp.org/) and a [Ford Foundation Predoctoral Fellow](https://www.nationalacademies.org/our-work/ford-foundation-fellowships).
 
