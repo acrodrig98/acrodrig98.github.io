@@ -9,9 +9,10 @@ permalink: /talks/
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
 
 # Recorded Talks
-## [What is the James Webb Space Telescope? (primarily for general audiences)](https://www.youtube.com/watch?v=Nl-PbrISJ30&)
-## [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
-## [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
+### [What is the James Webb Space Telescope? (primarily for general audiences)](https://www.youtube.com/watch?v=Nl-PbrISJ30&)
+
+### [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
+### [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
 
 # Press
 A New (Magnetic?) Period Bouncer: [Phys.org](https://phys.org/news/2024-01-cataclysmic-variable-brown-dwarf-secondary.html)
