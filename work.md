@@ -1,11 +1,11 @@
 ---
 theme: jekyll-theme-minimal
 description: Astrophysics PhD Student at Caltech
-title: "Research"
+title: "My Research"
 permalink: /research/
 ---
 ## [About Me](https://acrodrig98.github.io/)
-## [Research](https://acrodrig98.github.io/research)
+## [My Research](https://acrodrig98.github.io/research)
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
 
 # My Research
