@@ -13,6 +13,7 @@ permalink: /talks/
 
 # Recorded Talks (priarily for scientific audiences)
 ## [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
+## [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
 
 # Press
 Discovery of an Eclipsing Ultracompact Cataclysmic Variable: [Phys.org](https://phys.org/news/2023-07-eclipsing-cataclysmic-variable.html)
