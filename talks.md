@@ -15,3 +15,5 @@ permalink: /talks/
 ## [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
 
 # Press
+Discovery of an Eclipsing Ultracompact Cataclysmic Variable: [Phys.org](https://phys.org/news/2023-07-eclipsing-cataclysmic-variable.html)
+Discovery of Two New Polars: [Phys.org](https://phys.org/news/2022-06-astronomers-polars.html#google_vignette)
