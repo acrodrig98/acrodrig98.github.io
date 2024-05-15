@@ -8,10 +8,8 @@ permalink: /talks/
 ## [Research](https://acrodrig98.github.io/research)
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
 
-# Recorded Talks (primarily for general audiences)
-## [What is the James Webb Space Telescope?](https://www.youtube.com/watch?v=Nl-PbrISJ30&)
-
-# Recorded Talks (priarily for scientific audiences)
+# Recorded Talks
+## [What is the James Webb Space Telescope? (primarily for general audiences)](https://www.youtube.com/watch?v=Nl-PbrISJ30&)
 ## [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
 ## [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
 
