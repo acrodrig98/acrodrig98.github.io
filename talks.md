@@ -15,5 +15,7 @@ permalink: /talks/
 
 # Press
 A New (Magnetic?) Period Bouncer: [Phys.org](https://phys.org/news/2024-01-cataclysmic-variable-brown-dwarf-secondary.html)
+
 Discovery of an Eclipsing Ultracompact Cataclysmic Variable: [Phys.org](https://phys.org/news/2023-07-eclipsing-cataclysmic-variable.html)
+
 Discovery of Two New Polars: [Phys.org](https://phys.org/news/2022-06-astronomers-polars.html#google_vignette)
