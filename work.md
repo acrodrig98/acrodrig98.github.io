@@ -10,4 +10,12 @@ permalink: /research/
 
 # My Research
 
-## Accreting Binary Stars
+## Accreting White Dwarfs
+
+Accreting white dwarfs (WDs) are the most common accreting compact object in the Milky Way. 
+
+## Accreting (just barely) Stellar Mass Black Holes
+
+## Large X-ray and Optical Datasets
+
+## Microlensing
