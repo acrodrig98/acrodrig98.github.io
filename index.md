@@ -14,7 +14,7 @@ I'm originally from the town (small city) of Salinas, California and then comple
 Read about my work on [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=orcid%3A0000-0003-4189-9668%20OR%20author%3A%22rodriguez%2C%20antonio%20c.%22%20year%3A2022-%20&sort=date%20desc%2C%20bibcode%20desc)
 
 ### Curriculum Vitae
-My CV can be viewed <a href="https://acrodrig98.github.io/CV_Nov2023.pdf">here</a>.
+My CV can be viewed <a href="https://acrodrig98.github.io/CV_Oct2024.pdf">here</a>.
 
 ### Contact Info
 Email: acrodrig "at" caltech.edu
