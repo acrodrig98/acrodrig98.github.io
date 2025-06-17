@@ -10,11 +10,15 @@ permalink: /talks/
 # Recorded Talks
 
 [What is the James Webb Space Telescope?](https://www.youtube.com/watch?v=Nl-PbrISJ30&) (Caltech Stargazing Lecture for general audiences)
+
 [The Sun's Story: From Birth to Death and the Afterlife](https://www.youtube.com/watch?v=k2PGnZAIpdk) (Caltech Astronomy on Tap)
 
 Astronomy Colloquium (Univ. of Hertfordshire): [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
+
 Keck Science Meeting Talk: [Magnetic White Dwarfs with the Keck Observatory](https://www.youtube.com/watch?v=HFxj8ZQfmdo)
+
 ZTF Vlog: [A Discovery Tool For Galactic X-ray Sources](https://www.youtube.com/watch?v=5eb1ECVefgI)
+
 ZTF Vlog: [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
 
 # Press
