@@ -9,9 +9,9 @@ permalink: /talks/
 
 # Recorded Talks
 
-[What is the James Webb Space Telescope?](https://www.youtube.com/watch?v=Nl-PbrISJ30&) (Caltech Stargazing Lecture for general audiences)
+Caltech Stargazing Lecture (for general audiences): [What is the James Webb Space Telescope?](https://www.youtube.com/watch?v=Nl-PbrISJ30&) 
 
-[The Sun's Story: From Birth to Death and the Afterlife](https://www.youtube.com/watch?v=k2PGnZAIpdk) (Caltech Astronomy on Tap)
+Caltech Astronomy on Tap (for general audiences): [The Sun's Story: From Birth to Death and the Afterlife](https://www.youtube.com/watch?v=k2PGnZAIpdk) 
 
 Astronomy Colloquium (Univ. of Hertfordshire): [The Nearest Black Holes are Quiet (but White Dwarfs are Not)](https://www.youtube.com/watch?v=EaYXEa0oIH4)
 
