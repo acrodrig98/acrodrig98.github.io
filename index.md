@@ -17,6 +17,5 @@ Read about my work on [ADS](https://ui.adsabs.harvard.edu/search/filter_database
 My CV can be viewed <a href="https://acrodrig98.github.io/CV_Academic.pdf">here</a>.
 
 ### Contact Info
-Email: tonycuevas98 "at" gmail.com
-
-LinkedIn: [www.linkedin.com/in/antoniorodriguez98]
+- Email: tonycuevas98 "at" gmail.com
+- LinkedIn: [www.linkedin.com/in/antoniorodriguez98]
