@@ -17,4 +17,4 @@ My CV can be viewed <a href="https://acrodrig98.github.io/CV_Academic.pdf">here<
 
 ### Contact Info
 - Email: tonycuevas98 "at" gmail.com
-- [LinkedIn](www.linkedin.com/in/antoniorodriguez98)
+- [LinkedIn](https://www.linkedin.com/in/antoniorodriguez98)
