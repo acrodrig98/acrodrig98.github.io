@@ -8,14 +8,4 @@ permalink: /research/
 ## [My Research](https://acrodrig98.github.io/research)
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
 
-# My Research
-
-## Accreting White Dwarfs
-
-Accreting white dwarfs (WDs) are the most common accreting compact object in the Milky Way. 
-
-## Accreting (just barely) Stellar Mass Black Holes
-
-## Large X-ray and Optical Datasets
-
-## Microlensing
+My work primarily relies on a multiwavelength crossmatch between X-rays from the [SRG/eROSITA mission](https://www.mpe.mpg.de/eROSITA) and optical data from the [Zwicky Transient Facility](https://www.ztf.caltech.edu) and [Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia_overview), though I also use data from other [X-ray](https://chandra.harvard.edu/), [optical](https://www.keckobservatory.org/), and [radio](https://www.vla.nrao.edu/) telescopes. I am broadly interested in applying statistical techniques to extract scientific results out of large astronomical datasets, and have shown that [a simple tool, the "X-ray Main Sequence",](https://ui.adsabs.harvard.edu/abs/2024PASP..136e4201R/abstract) can efficiently reveal the true [demographics of accreting white dwarfs](https://ui.adsabs.harvard.edu/abs/2024arXiv240816053R/abstract) in the solar neighborhood.
