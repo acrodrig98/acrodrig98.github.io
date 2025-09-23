@@ -16,5 +16,5 @@ Read about my work on [ADS](https://ui.adsabs.harvard.edu/search/filter_database
 My CV can be viewed <a href="https://acrodrig98.github.io/CV_Academic.pdf">here</a>.
 
 ### Contact Info
-- Email: antonio.rodriguez "at" fas.harvard.edu
+- Email: tony.rodriguez "at" cfa.harvard.edu
 - [LinkedIn](https://www.linkedin.com/in/antoniorodriguez98)
