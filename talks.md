@@ -23,8 +23,7 @@ ZTF Vlog: [A Discovery Tool For Galactic X-ray Sources](https://www.youtube.com/
 ZTF Vlog: [Microlensing Events in ZTF](https://www.youtube.com/watch?v=nu_wI5FBoK4)
 
 # Press
-Most Compact Polar with Hydrogen-rich Donor
-- [AAS Nova](https://aasnova.org/2025/10/22/shortest-period-polar-cataclysmic-variable-discovered/#prettyPhoto)
+Most Compact Polar with Hydrogen-rich Donor: [AAS Nova](https://aasnova.org/2025/10/22/shortest-period-polar-cataclysmic-variable-discovered/#prettyPhoto)
 
 A Missing Link in Magnetic White Dwarf Stars
 - [Caltech News](https://www.caltech.edu/about/news/a-missing-link-in-magnetic-stars)
