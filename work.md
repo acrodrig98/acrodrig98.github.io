@@ -16,7 +16,7 @@ My work primarily relies on a multiwavelength crossmatch between X-rays from the
 
 Long period radio transients (LPTs) have been the first new class of radio pulsators in decades. Until now, pulsars and millisecond pulsars have occupied the sub-period regime, while LPTs exhibit radio pulse periods on the order of minutes to hours. 
 
-<img src="lpt.png" style="max-width:70%;">
+![GLEAM-X J0704-37](lpt.png)
 
 
 
