@@ -14,6 +14,11 @@ My work primarily relies on a multiwavelength crossmatch between X-rays from the
 
 ### A New Class of Radio-pulsing Sources: Long Period Radio Transients
 
+Long period radio transients (LPTs) have been the first new class of radio pulsators in decades. Until now, pulsars and millisecond pulsars have occupied the sub-period regime, while LPTs exhibit radio pulse periods on the order of minutes to hours. 
+
+![Radial velocity curve of GLEAM-X J0704-37](lpt.png)
+
+
 ### Accreting White Dwarfs (Cataclysmic Variables)
 
 ### Ultracompact White Dwarfs and Gravitational Waves (AM CVn Binaries)
