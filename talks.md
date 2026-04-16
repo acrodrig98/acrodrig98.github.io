@@ -6,6 +6,7 @@ permalink: /talks/
 ---
 ## [About Me](https://acrodrig98.github.io/)
 ## [My Research](https://acrodrig98.github.io/research)
+## [Code and Data](https://acrodrig98.github.io/code)
 ## [Recorded Talks and Press](https://acrodrig98.github.io/talks)
 
 # Recorded Talks
