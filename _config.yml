@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Antonio (Tony) C. Rodriguez
-description: Harvard Prize Postdoctoral Fellow | Caltech Astrophysics PhD
+description: Harvard Prize Postdoctoral Fellow · Astrophysicist
 logo: rodriguez_antonio.png
+
+plugins:
+  - jekyll-feed
