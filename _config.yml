@@ -5,3 +5,9 @@ logo: rodriguez_antonio.png
 
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
