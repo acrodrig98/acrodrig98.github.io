@@ -3,7 +3,6 @@ layout: default
 title: "Welcome to My Blog"
 date: 2025-02-01
 categories: general
-permalink: /blog/welcome/
 ---
 
 # Welcome to My Blog

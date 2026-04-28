@@ -3,6 +3,8 @@ title: Antonio (Tony) C. Rodriguez
 description: Harvard Prize Postdoctoral Fellow · Astrophysicist
 logo: rodriguez_antonio.png
 
+permalink: /blog/:title/
+
 plugins:
   - jekyll-feed
 
