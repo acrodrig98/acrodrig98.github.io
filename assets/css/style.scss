@@ -163,15 +163,14 @@ img { max-width: 100%; height: auto; }
 
   // ── Profile photo ───────────────────────────
   img.profile-photo {
-    width: 180px;
-    height: 180px;
+    width: 130px;
+    height: 130px;
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid $border;
     box-shadow: 0 3px 16px rgba(0, 0, 0, 0.13);
-    float: right;
-    margin: 0 0 24px 36px;
     display: block;
+    margin: 0 auto;
   }
 
   // ── Tables ──────────────────────────────────
@@ -253,6 +252,38 @@ img { max-width: 100%; height: auto; }
     font-size: 0.96em;
     line-height: 1.65;
     color: $text;
+  }
+}
+
+// ─── About Page Sidebar Layout ────────────────────────────────────────────────
+.about-layout {
+  display: flex;
+  gap: 44px;
+  align-items: flex-start;
+}
+
+.about-sidebar {
+  flex-shrink: 0;
+  width: 130px;
+  position: sticky;
+  top: 80px; // sits just below the nav bar
+}
+
+.about-content {
+  flex: 1;
+  min-width: 0; // prevents flex overflow
+}
+
+@media (max-width: 560px) {
+  .about-layout {
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .about-sidebar {
+    position: static;
+    width: 100%;
+    text-align: center;
   }
 }
 

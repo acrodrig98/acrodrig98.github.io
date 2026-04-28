@@ -5,7 +5,11 @@ description: Harvard Prize Postdoctoral Fellow | Astrophysicist
 permalink: /
 ---
 
-<img src="/rodriguez_antonio.png" alt="Antonio (Tony) C. Rodriguez" class="profile-photo">
+<div class="about-layout">
+<div class="about-sidebar">
+  <img src="/rodriguez_antonio.png" alt="Antonio (Tony) C. Rodriguez" class="profile-photo">
+</div>
+<div class="about-content" markdown="1">
 
 # Antonio (Tony) C. Rodriguez
 
@@ -33,3 +37,6 @@ My CV can be viewed [here](https://acrodrig98.github.io/CV_Academic.pdf).
 
 - **Email:** tony.rodriguez "at" cfa.harvard.edu
 - **LinkedIn:** [antoniorodriguez98](https://www.linkedin.com/in/antoniorodriguez98)
+
+</div>
+</div>
