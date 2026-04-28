@@ -8,7 +8,13 @@ categories: general
 # Can LLMs actually discover something new in astronomy?
 
 ### Background
-A few weeks ago I found a new binary star — a rare type called an AM CVn, in which two white dwarfs orbit each other every 23 minutes, so close together that they ripple the fabric of spacetime as they spiral inward. There are only about 150 of these systems known anywhere in the Galaxy, and finding new ones matters: they will be among the brightest gravitational-wave sources for ESA's upcoming LISA space mission, and some are candidate progenitors of certain types of supernovae.
+A few weeks ago I found a new binary star — a rare type called an AM CVn, in which two white dwarfs orbit each other every 20 minutes, so close together that they ripple the fabric of spacetime as they spiral inward. There are only about 150 of these systems known anywhere in the Galaxy, but only about a dozen are known to be this compact --- with orbital periods of about 20 minutes or shorter. Finding new ones matters: they will be among the brightest gravitational-wave sources for ESA's upcoming LISA space mission, and some are candidate progenitors of certain types of supernovae.
+
+AM CVn binaries are quite blue (left), and the gravitational waves they emi be detectable by LISA in the 2030s (right).
+![spectroscopy](/assets/amcvn.jpg)![spectroscopy](/assets/LISA.jpg)
+Sources: Mark Garlick SpaceArt, European Space Agency
+
+
 The discovery hasn't been published yet. Nothing about this specific source exists in any catalog, paper, or webpage that an AI model could have read. So I had a clean opportunity to ask: can Claude actually find it?
 
 ### Two Tests for Claude
