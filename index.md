@@ -5,11 +5,13 @@ description: Harvard Prize Postdoctoral Fellow | Astrophysicist
 permalink: /
 ---
 
+<img src="/rodriguez_antonio.png" alt="Antonio (Tony) C. Rodriguez" class="profile-photo">
+
 # Antonio (Tony) C. Rodriguez
 
 I am an astrophysicist at [Harvard University](https://www.harvard.edu/) working on understanding the extreme physics of binary stars. I apply data-mining techniques—both classical and AI-based—to make new discoveries in the largest astronomical datasets ever collected.
 
-I hold a **Future Faculty Leader (FFL) Prize Fellowship** at Harvard University in the [Center for Astrophysics | Harvard & Smithsonian](https://cfa.harvard.edu/). I am also a Fellow of the [Institute for Theory and Computation (ITC)](https://itc.cfa.harvard.edu/).
+I hold a **Future Faculty Leader (FFL) Prize Fellowship** at Harvard University in the [Center for Astrophysics](https://cfa.harvard.edu/) (Harvard & Smithsonian). I am also a Fellow of the [Institute for Theory and Computation (ITC)](https://itc.cfa.harvard.edu/).
 
 I earned my PhD in the [Department of Astronomy](https://www.astro.caltech.edu) at Caltech, where I worked with Professors [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Kareem El-Badry](https://kareemelbadry.github.io/). During my PhD I was fortunate to receive an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), a [Ford Foundation Predoctoral Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships), and an [LSST-DA Data Science Fellowship](https://lsstdiscoveryalliance.org/programs/data-science-fellowship/).
 

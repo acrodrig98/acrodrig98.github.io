@@ -136,6 +136,9 @@ img { max-width: 100%; height: auto; }
   // ── Body text ───────────────────────────────
   p { margin-bottom: 1.1em; }
 
+  // Clear floats (e.g. after profile photo)
+  hr { clear: both; }
+
   ul, ol {
     padding-left: 1.5em;
     margin-bottom: 1em;
@@ -155,6 +158,19 @@ img { max-width: 100%; height: auto; }
     border-radius: 6px;
     box-shadow: 0 2px 14px rgba(0, 0, 0, 0.10);
     margin: 16px 0;
+    display: block;
+  }
+
+  // ── Profile photo ───────────────────────────
+  img.profile-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid $border;
+    box-shadow: 0 3px 16px rgba(0, 0, 0, 0.13);
+    float: right;
+    margin: 0 0 24px 36px;
     display: block;
   }
 
