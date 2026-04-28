@@ -7,7 +7,7 @@ permalink: /blog/
 
 # Blog
 
-Occasional posts on astrophysics research, science communication, and life in academia.
+Occasional posts on astrophysics, AI, research, education, and more.
 
 ---
 
