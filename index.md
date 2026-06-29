@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-minimal
 title: "About Me"
-description: Harvard Prize Postdoctoral Fellow | Astrophysicist
+description: Data Scientist at Waymo | Astrophysics Enthusiast
 permalink: /
 ---
 
@@ -13,13 +13,9 @@ permalink: /
 
 # Antonio (Tony) C. Rodriguez
 
-I am an astrophysicist at [Harvard University](https://www.harvard.edu/) working on understanding the extreme physics of binary stars. I apply data-mining techniques—both classical and AI-based—to make new discoveries in the largest astronomical datasets ever collected.
+I am a Data Sceintist on the Research team at [Waymo](https://waymo.com/). I was previously a full-time astrophysicist, working on understanding the extreme physics of binary stars. This research site contains my previous and current astrophysics work, using data-mining techniques, both classical and AI-based, to make new discoveries in the largest astronomical datasets ever collected.
 
-I hold a **Future Faculty Leader (FFL) Prize Fellowship** at Harvard University in the [Center for Astrophysics](https://cfa.harvard.edu/) (Harvard & Smithsonian). I am also a Fellow of the [Institute for Theory and Computation (ITC)](https://itc.cfa.harvard.edu/).
-
-I earned my PhD in the [Department of Astronomy](https://www.astro.caltech.edu) at Caltech, where I worked with Professors [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Kareem El-Badry](https://kareemelbadry.github.io/). During my PhD I was fortunate to receive an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), a [Ford Foundation Predoctoral Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships), and an [LSST-DA Data Science Fellowship](https://lsstdiscoveryalliance.org/programs/data-science-fellowship/).
-
-I completed my undergraduate education in the [Department of Physics](https://physics.stanford.edu) at Stanford University, and I am originally from Salinas, California.
+I held a Future Faculty Leader (FFL) Prize Fellowship at Harvard University in the [Center for Astrophysics](https://cfa.harvard.edu/), Harvard & Smithsonian (2025-2026), and earned my PhD in the [Department of Astronomy](https://www.astro.caltech.edu) at Caltech, where I worked with Professors [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Kareem El-Badry](https://kareemelbadry.github.io/) (202-2025). I completed my undergraduate education in the [Department of Physics](https://physics.stanford.edu) at Stanford University (2016-2020), and I am originally from Salinas, California.
 
 ---
 
@@ -35,7 +31,7 @@ My CV can be viewed [here](https://acrodrig98.github.io/CV_Academic.pdf).
 
 ## Contact
 
-- **Email:** tony.rodriguez "at" cfa.harvard.edu
+- **Email:** tonycuevas98 "at" gmail.com
 - **LinkedIn:** [antoniorodriguez98](https://www.linkedin.com/in/antoniorodriguez98)
 
 </div>
