@@ -13,9 +13,11 @@ permalink: /
 
 # Antonio (Tony) C. Rodriguez
 
-I am a Data Sceintist on the Research team at [Waymo](https://waymo.com/). I was previously a full-time astrophysicist, working on understanding the extreme physics of binary stars. This research site contains my previous and current astrophysics work, using data-mining techniques, both classical and AI-based, to make new discoveries in the largest astronomical datasets ever collected.
+I am a Data Sceintist on the Research team at [Waymo](https://waymo.com/). I was previously a full-time astrophysicist, working on understanding the extreme physics of binary stars. I am now an astrophysics enthusiast, and this research site contains my previous and current astrophysics work. I primarily use data-mining techniques, both classical and AI-based, to make new discoveries in the largest astronomical datasets ever collected.
 
-I held a Future Faculty Leader (FFL) Prize Fellowship at Harvard University in the [Center for Astrophysics](https://cfa.harvard.edu/), Harvard & Smithsonian (2025-2026), and earned my PhD in the [Department of Astronomy](https://www.astro.caltech.edu) at Caltech, where I worked with Professors [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Kareem El-Badry](https://kareemelbadry.github.io/) (202-2025). I completed my undergraduate education in the [Department of Physics](https://physics.stanford.edu) at Stanford University (2016-2020), and I am originally from Salinas, California.
+Most recently, I held a Future Faculty Leader (FFL) Prize Fellowship at [Harvard University](https://www.harvard.edu/) in the [Center for Astrophysics](https://cfa.harvard.edu/), Harvard & Smithsonian (2025-2026). There, I was affiliated with the [NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/) as well as the [Insitute for Theory and Computation](https://itc.cfa.harvard.edu/).
+
+I earned my PhD in the [Department of Astronomy](https://www.astro.caltech.edu) at Caltech, where I worked with Professors [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Kareem El-Badry](https://kareemelbadry.github.io/) and was supported by various fellowships: [NSF GRFP](https://www.nsfgrfp.org/), [Ford Foundation](https://www.fordfoundation.org/news-and-stories/stories/winding-down-ford-fellowships-at-the-national-academies/), and [LSST-DA](https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/data-science-fellowship/) (2020-2025). I completed my undergraduate education in the [Department of Physics](https://physics.stanford.edu) at Stanford University (2016-2020), and I am originally from Salinas, California.
 
 ---
 
